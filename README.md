@@ -6,14 +6,14 @@ Dataset is loaded from Kaggle which containg information of Hotel Cancellations 
 According To Project Task Droped unwanted Columns, also created calculated columns  like room_status and guest_types.
 <br>
 ## Project Task
- 1.] Understanding the Business Problem: Initial exploration of the hotel booking industry and the implications of cancellations.
-2.] Data Cleaning and Preparation: Ensured data accuracy through handling missing values, outliers, and formatting.
-3.] Pivot Tables and Charts:
-    - Cancellation based on Guest Type
-    - Cancellation by Room Type
-    - Month-wise Cancellation Trends
-    - Comparison of Cancellation Rates by Hotel Type
+1.] Understanding the Business Problem: Initial exploration of the hotel booking industry and the implications of cancellations.<br>
+2.] Data Cleaning and Preparation: Ensured data accuracy through handling missing values, outliers, and formatting.<br>
+3.] Pivot Tables and Charts:<br>
+    - Cancellation based on Guest Type<br>
+    - Cancellation by Room Type<br>
+    - Month-wise Cancellation Trends<br>
+    - Comparison of Cancellation Rates by Hotel Type<br>
 4.] Interactive Dashboard: Designed an intuitive dashboard for visually conveying analysis findings.
 <br>
-## Dashboard
+## 📊 Dashboard
 <br>
