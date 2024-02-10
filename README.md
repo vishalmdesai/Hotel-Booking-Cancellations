@@ -17,4 +17,5 @@ According To Project Task Droped unwanted Columns, also created calculated colum
 <br>
 ## 📊 Dashboard
 <br>
-![Dashboard](https://github.com/vishalmdesai/Hotel-Booking-Cancellations/assets/153223711/1bfc0872-5afd-45a3-8ac7-fb7f85fac386)
+![Dashboard](https://github.com/vishalmdesai/Hotel-Booking-Cancellations/assets/153223711/4c3dd512-dc66-4322-a830-000fd8a8c238)
+
